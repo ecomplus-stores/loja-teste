@@ -1,7 +1,7 @@
 {
   "store_id": 1056,
   "name": "loja-teste",
-  "domain": "teste-storefront.netlify.app",
+  "domain": "loja-teste.netlify.app",
   "short_name": "loja-teste",
   "description": "loja-teste",
   "primary_color": "#222831",

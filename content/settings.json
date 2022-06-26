@@ -18,6 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "lang": "pt_br",
   "currency": "BRL",
+  "repository": "ecomplus-stores/loja-teste",
   "currency_symbol": "R$",
   "country_code": "BR"
 }
